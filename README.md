@@ -3,6 +3,8 @@ A simple clipboard logger script created because of Mac supporting history of on
 
 it could be adjusted longer or shorter
 
+## ATTENTION - make sure you have the right to try this on the computer you want to try it on
+
 ## How to use
 [-] clone the repository
 
