@@ -7,4 +7,4 @@ it could be adjusted longer or shorter
 [-] clone the repository
 
 ```
-gh repo clone solomonchidera/clipboardLogger```
+gh repo clone solomonchidera/clipboardLogger
