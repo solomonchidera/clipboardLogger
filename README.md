@@ -30,3 +30,9 @@ Now Run The Script
 ```
 
 This command will run the script and make sure it continue running in the background
+
+<details>
+<summary>CLICK ME</summary>
+<p>Give it a star c'mon</p>
+</details>
+
