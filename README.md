@@ -6,19 +6,6 @@ it could be adjusted longer or shorter
 ## How to use
 [-] clone the repository
 
-for github gh users
-
-```
-gh repo clone solomonchidera/clipboardLogger
-```
-for ssh users
-
-```
-git clone git@github.com:solomonchidera/clipboardLogger.git
-```
-
-or 
-
 ```
 git clone https://github.com/solomonchidera/clipboardLogger
 ```
