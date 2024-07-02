@@ -4,5 +4,8 @@ A simple clipboard logger script created because of Mac supporting history of on
 it could be adjusted longer or shorter
 
 ## How to use
-[] clone the repository
-```gh repo clone solomonchidera/clipboardLogger``` --for gh users
+[-] clone the repository
+
+```
+gh repo clone solomonchidera/clipboardLogger
+``` --for gh users
