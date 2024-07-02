@@ -6,6 +6,4 @@ it could be adjusted longer or shorter
 ## How to use
 [-] clone the repository
 
-```
-gh repo clone solomonchidera/clipboardLogger
-``` --for gh users
+```gh repo clone solomonchidera/clipboardLogger ``` # --for gh users
