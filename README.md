@@ -17,8 +17,16 @@ the script creates the folder if not existing already, once you are satisfied wi
 
 by updating the ``sleep`` command in the script to your choice.
 
+- Make it executable
+
+```
+chmod +x cliplogger.sh
+```
+
+Now Run The Script
+
 ```
 ./cliplogger.sh &
 ```
 
-This command will run the script
+This command will run the script and make sure it continue running in the background
