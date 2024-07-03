@@ -6,7 +6,7 @@ it could be adjusted longer or shorter
 ## ATTENTION - make sure you have the right to try this on the computer you want to try it on
 
 ## How to use
-[1] clone the repository
+### Clone the repository
 
 ```
 git clone https://github.com/solomonchidera/clipboardLogger
