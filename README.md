@@ -33,6 +33,9 @@ Now Run The Script
 
 This command will run the script and make sure it continue running in the background
 
+### CONTRIBUTING
+If you want to contribute or suggest a feature you can open an issue 
+
 <details>
 <summary>CLICK ME</summary>
 <p>Give it a star c'mon</p>
